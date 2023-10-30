@@ -1,0 +1,94 @@
+.container{
+background-size:contain;
+background-position:top;
+background: cover;
+background-color: aqua;
+width: 1155px;
+height: 500px;
+}
+
+
+.formrow {
+    margin-bottom: 8px ;
+    overflow: hidden;
+  }
+  
+  .formrow input {
+    float: right;
+    height: 20px;
+    line-height: 20px;
+    padding: 0px 5px;
+    width: 300px;
+    border: 2px solid red;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  h2 {
+  text-align: center;
+  color: yellowgreen;
+  text-decoration: underline;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+  .regform {
+    width: 450px;
+    margin: 0px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .form-row textarea {
+    height: 90px;
+    line-height: 15px;
+    font-size: 10px;
+  padding: 0px 5px;
+  width: 500px;
+  border: 2px solid black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+ 
+  .form-row input[type=submit]{
+    padding:5px;
+    height: 25px;
+    width: 100%;
+    line-height: 10px;
+    background-color: green ;
+    color: rgb(255, 255, 255);
+  
+  }
+  
+  .buttoncontainer{
+    float: right;
+    height: 20px;
+    line-height: 20px;
+    padding: 0px 5px;
+    width: 150px;
+    border: 2px solid red;
+    color: black;
+   align-items: center;
+  }
+
+  .name{
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .inputvalue{
+  height: 18px;
+  line-height: 15px;
+  font-size: 10px;
+  padding: 0px 5px;
+  width: 290px;
+  border: 2px solid red;
+  }
+
+  .contbutton{
+    float: right;
+    height: 22px;
+    line-height: 20px;
+    padding: 0px 5px;
+    width: 100px;
+    border: 2px solid red;
+    color: black;
+    
+  }
